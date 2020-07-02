@@ -1,0 +1,10 @@
+#Virtual Env
+venv/
+
+#Flask
+instace/*
+!instace/.gitignore
+.webassets-cache
+
+#Bye-compiled
+__pycache__/
